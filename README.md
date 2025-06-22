@@ -29,8 +29,15 @@ I really enjoy putting my creativity into practice with programming and I dedica
   <img src="https://skillicons.dev/icons?i=vscode,github" height="60"/>
 </div>  
 
+### Languages
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Intermediate English
 
 Here on my GitHub you will find my projects and learnings, I hope you like it🐱
 
 ---
+##  <img src="https://skillicons.dev/icons?i=discord" height="28"/> Community
+
+#### Join my Discord developer community! Here we help each other and share knowledge, and its one of the largest servers in Brazil.🥳
+
 [![Discord Server Card](https://cardzera.onrender.com/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
