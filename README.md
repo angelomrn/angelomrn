@@ -21,7 +21,7 @@ I really enjoy putting my creativity into practice with programming and I dedica
 
 #### 🤔Technologies that I've explored a bit...
 <div>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,bootstrap" height="60"/>
+  <img src="https://skillicons.dev/icons?i=py,nodejs,bootstrap,docker" height="60"/>
 </div>
 
 #### ⚒️ Tools
