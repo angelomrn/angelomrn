@@ -37,9 +37,6 @@ Here on my GitHub you will find my projects and learnings, I hope you like itğŸ
 
 ---
 ##  <img src="https://skillicons.dev/icons?i=discord" height="28"/> Community
-<a href="https://discord.gg/servidordosprogramadores">
-  <img width="1200" height="500" alt="banner-servidor-dos-programadores" src="https://github.com/user-attachments/assets/75add6a4-5760-4786-ad2b-e4cbfbc7a819" />
-</a>
 
 ### Join my Discord developer community! Here we help each other and share knowledge, and its one of the largest servers in Brazil.ğŸ¥³
 
