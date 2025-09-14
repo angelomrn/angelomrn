@@ -40,4 +40,8 @@ Here on my GitHub you will find my projects and learnings, I hope you like itğŸ
 
 ### Join my Discord developer community! Here we help each other and share knowledge, and its one of the largest servers in Brazil.ğŸ¥³
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+<div align="center">
+  
+  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+  
+</div>
