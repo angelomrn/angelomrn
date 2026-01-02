@@ -16,7 +16,7 @@ I really enjoy putting my creativity into practice with programming and I dedica
 
 #### 🧠Knowledge
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="60"/>
 </div>
 
 #### 🤔Technologies that I've explored a bit...
