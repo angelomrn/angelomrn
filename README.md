@@ -1,13 +1,14 @@
-<!-- TITLE -->
-<div id="user-content-toc">
-  <ul align="left">  
-     <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=009903&left=true&Left=true&random=false&width=524&lines=Hello+World,+I'm+Angelo." alt="Typing SVG">
-  </ul>
+<div align="center">
+  <img src="octocat-agl.png" width="350px">
+  <!-- TITLE -->
+    <div id="user-content-toc">
+      <ul>  
+         <a href="https://git.io/typing-svg">
+         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=009903&left=true&Left=true&random=false&width=605&lines=Hello+World,+I'm+Angelo,+a+Front-End+Developer" alt="Typing SVG">
+      </ul>
+    </div>
+         
 </div>
-
-       
-### I'm a Front-End Developer, and this is my GitHub profile
 
 ### 🤓 _About Me_ 
 ----
@@ -16,7 +17,7 @@ I really enjoy putting my creativity into practice with programming and I dedica
 
 #### 🧠Knowledge
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,ts" height="60"/>
 </div>
 
 #### 🤔Technologies that I've explored a bit...
