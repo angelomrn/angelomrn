@@ -1,11 +1,9 @@
 <div align="center">
   <img src="octocat-agl.png" width="350px">
   <!-- TITLE -->
-    <div id="user-content-toc">
-      <ul>  
-         <a href="https://git.io/typing-svg">
-         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=009903&left=true&Left=true&random=false&width=605&lines=Hello+World,+I'm+Angelo,+a+Front-End+Developer" alt="Typing SVG">
-      </ul>
+    <div>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=009903&center=true&Center=true&random=false&width=605&lines=Hello+World,+I'm+Angelo" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=22&pause=1000&color=009903&center=true&Center=true&random=false&width=605&lines=a+Front-End+Developer" alt="Typing SVG">
     </div>
          
 </div>
@@ -43,6 +41,6 @@ Here on my GitHub you will find my projects and learnings, I hope you like itüê
 
 <div align="center">
   
-  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp})](https://discord.gg/servidordosprogramadores)
+  [![Discord Server Card](https://cardzera.audibert.dev/api/1112920281367973900?t={timestamp}&backgroundColor=050505)](https://discord.gg/servidordosprogramadores)
   
 </div>
